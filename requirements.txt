@@ -1,0 +1,8 @@
+streamlit
+gtts
+SpeechRecognition
+langdetect
+pypdf
+python-docx
+pydub
+pyjwt
