@@ -1,8 +1,9 @@
-streamlit
-gtts
-SpeechRecognition
-langdetect
-pypdf
-python-docx
-pydub
-pyjwt
+streamlit>=1.32.0
+gtts>=2.5.0
+SpeechRecognition>=3.10.0
+langdetect>=1.0.9
+deep-translator>=1.11.4
+pypdf>=4.2.0
+python-docx>=1.1.0
+pydub>=0.25.1
+edge-tts>=6.1.12
